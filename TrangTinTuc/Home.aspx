@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
         <div>
             TRANG TIN TUC DON GIAN<br />
+            Dong nay moi them
         </div>
     </form>
 </body>

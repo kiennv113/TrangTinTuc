@@ -1,0 +1,7 @@
+C:\Users\PhongVuVP\source\repos\TrangTinTuc\TrangTinTuc\bin\TrangTinTuc.dll.config
+C:\Users\PhongVuVP\source\repos\TrangTinTuc\TrangTinTuc\bin\TrangTinTuc.dll
+C:\Users\PhongVuVP\source\repos\TrangTinTuc\TrangTinTuc\bin\TrangTinTuc.pdb
+C:\Users\PhongVuVP\source\repos\TrangTinTuc\TrangTinTuc\obj\Debug\TrangTinTuc.csprojAssemblyReference.cache
+C:\Users\PhongVuVP\source\repos\TrangTinTuc\TrangTinTuc\obj\Debug\TrangTinTuc.csproj.CoreCompileInputs.cache
+C:\Users\PhongVuVP\source\repos\TrangTinTuc\TrangTinTuc\obj\Debug\TrangTinTuc.dll
+C:\Users\PhongVuVP\source\repos\TrangTinTuc\TrangTinTuc\obj\Debug\TrangTinTuc.pdb

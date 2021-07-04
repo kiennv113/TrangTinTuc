@@ -11,6 +11,7 @@
         <div>
             TRANG TIN TUC DON GIAN<br />
             Dong nay moi them
+            alo alo
         </div>
     </form>
 </body>

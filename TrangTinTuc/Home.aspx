@@ -12,6 +12,7 @@
             TRANG TIN TUC DON GIAN<br />
             Dong nay moi them
             alo alo
+            123 123
         </div>
     </form>
 </body>
